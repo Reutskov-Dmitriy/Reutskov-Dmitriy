@@ -1,7 +1,7 @@
 Hi 👋 My name is Dmitriy Reutskov
 =================================
 
-Junior Front-End developer (React)
+Junior Front-End developer 
 ----------------------------------
 
 * 🌍  I'm based in Zhytomyr, Ukraine
