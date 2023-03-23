@@ -28,7 +28,7 @@ Junior Front-End developer
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Reutskov-Dmitriy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dmitriy-reutskov/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://t.me/redmivl" target="_blank" rel="noreferrer"><img src="https://github.com/Reutskov-Dmitriy/01-Lesson-sv/blob/master/assets/images/icons/765232_mail_media_social_icon.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dmitriy-reutskov/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
