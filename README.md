@@ -6,7 +6,7 @@ Junior Front-End developer
 
 * 🌍  I'm based in Zhytomyr, Ukraine
 * ✉️  You can contact me at [reutskov@gmail.com](mailto:reutskov@gmail.com)
-* 🧠  I'm learning a NestJs framework
+
 
 ### Skills
 
